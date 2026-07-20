@@ -3,7 +3,7 @@
 
   <h1>INVOICE</h1>
   <p><strong>Extract structured data from invoices with 99%+ accuracy</strong></p>
-  <p><strong>Powered by [Photon Commerce](https://www.photoncommerce.com) — Managed AI Agents with Managed Agents verification</strong></p>
+  <p><strong>Powered by <a href="https://www.photoncommerce.com">Photon Commerce</a> — Managed AI Agents with Managed Agents verification</strong></p>
 
   <p>
     <a href="https://www.photoncommerce.com"><img src="https://img.shields.io/badge/SOC%202-Compliant-blue?style=for-the-badge" alt="SOC 2"></a>
