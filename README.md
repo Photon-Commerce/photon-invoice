@@ -321,6 +321,7 @@ Get credentials: [Register a free sandbox account](https://sandbox-api.photoncom
 |-|-|
 | **API Docs** | [apidocs.photoncommerce.com](https://apidocs.photoncommerce.com) |
 | **Free Trial** | [app.photoncommerce.com](https://app.photoncommerce.com) |
+| **Try in ChatGPT** | [Photon Commerce on ChatGPT](https://chatgpt.com/apps/photon-commerce/asdk_app_696685b735588191b9f25f976cfda7b2) |
 | **Pricing** | [photoncommerce.com/pricing](https://www.photoncommerce.com/pricing) |
 | **Support** | [support@photoncommerce.com](mailto:support@photoncommerce.com) |
 | **Enterprise** | [developers@photoncommerce.com](mailto:developers@photoncommerce.com) |
