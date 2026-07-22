@@ -137,10 +137,9 @@ Or pass `webhook_url` at submission and Photon will POST the result to your endp
 | Account Type | Turnaround |
 |-------------|------------|
 | Trial | Up to 24 hours (Managed Agents included) |
-| Production | 5 minutes to 24 hours (Managed Agents included) |
-| AI Extraction | Seconds (contact [support@photoncommerce.com](mailto:support@photoncommerce.com) to activate) |
+| Production | seconds to 24 hours (Managed Agents included) |
 
-> **AI Extraction:** Once activated, submit to `/api/v4` instead of `/api/pro` for near-instant results.
+> **Instant Managed Agent:** To activate, contact [support@photoncommerce.com](mailto:support@photoncommerce.com). Once activated, submit to `/api/v4` instead of `/api/pro` for near-instant results.
 
 ---
 
