@@ -311,6 +311,13 @@ Get credentials: [Register a free sandbox account](https://sandbox-api.photoncom
 }
 ```
 
+---
+
+## Other Document Types
+
+| Repo | Document |
+|------|----------|
+| [`photon-receipt`](https://github.com/Photon-Commerce/photon-receipt) | Receipts |
 
 ---
 
