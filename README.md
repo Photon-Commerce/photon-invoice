@@ -89,6 +89,8 @@ print(result["Currency_Code"])  # USD
 | ![JavaScript](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | [extract_invoice.js](extract_invoice.js) | fetch + form-data |
 | ![cURL](https://img.shields.io/badge/cURL-073551?style=flat-square&logo=curl&logoColor=white) | [extract_invoice.sh](extract_invoice.sh) | curl |
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | [extract_invoice.php](extract_invoice.php) | Guzzle |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | [extract_invoice.go](extract_invoice.go) | net/http |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | [extract_invoice.java](extract_invoice.java) | OkHttp |
 
 
 Every example supports both **local file upload** and **URL-based submission**, plus optional webhook callbacks.
