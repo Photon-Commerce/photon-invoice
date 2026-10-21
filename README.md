@@ -91,6 +91,8 @@ print(result["Currency_Code"])  # USD
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | [extract_invoice.php](extract_invoice.php) | Guzzle |
 | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | [extract_invoice.go](extract_invoice.go) | net/http |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | [extract_invoice.java](extract_invoice.java) | OkHttp |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | [extract_invoice.cs](extract_invoice.cs) | HttpClient (.NET 6+) |
+| ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) | [extract_invoice.rb](extract_invoice.rb) | Net::HTTP |
 
 
 Every example supports both **local file upload** and **URL-based submission**, plus optional webhook callbacks.
